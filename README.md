@@ -5,4 +5,4 @@ Currently a `junior` at the CUHK with passion for econometrics and ML/DL techniq
 Please find my projects portfolio here and let's connect!
 - [My personal email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=juanfraderickk@gmail.com)
 - [My LinkedIn page](https://www.linkedin.com/in/juanfraderick/)
-- [My writings](https://medium.com/@juanfrad)
+- [My Medium page](https://medium.com/@juanfrad)
