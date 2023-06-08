@@ -1,6 +1,6 @@
 ## **Hello there, I'm Juan!** 😉👋
 
-Currently a `junior` at the CUHK with passion for econometrics and ML/DL techniques. I aspire to become a data scientist in the banking or asset management industry. I'm actively seeking for summer 2024 internships in `data analytics` or `risk management`. 
+A data nerd with love for econometrics and ML/DL techniques. My career aspiration is to become a Data Scientist in the finance landscape. That said, I'm actively seeking for summer 2024 analyst internships in `Data Analytics` or `Risk Management` roles. 
 
 Please find my projects portfolio here and let's connect!
 - [My personal email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=juanfraderickk@gmail.com)
